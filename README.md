@@ -1,0 +1,1 @@
+This plugin send Tip with color Text then you join server!
