@@ -1,0 +1,8 @@
+---
+name: ColorText
+api: 3.0.0
+main: ColorText\ColorText
+author: mlsDmitry
+version: 1.2.0
+description: color text for you :)
+---
